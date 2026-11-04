@@ -4,6 +4,12 @@
 
 # GPU Platform Readiness
 
+## Animated Processor Atlas
+
+Explore CPU, GPU, TPU, NPU, LPU and DPU with six original animated diagrams, worked examples and playback controls.
+
+[Open the guide and graphics](ai-processor-explorer/README.md) · [Interactive HTML source](ai-processor-explorer/dist/index.html)
+
 A read-only check for NVIDIA GPU hosts used for AI/ML training and inference, visualization, or HPC. Run it on a new node before it joins a cluster, after a driver upgrade, or when jobs start failing on one machine.
 
 Nothing on the host is changed. It does not touch persistence mode, clocks, power limits, or driver settings.
