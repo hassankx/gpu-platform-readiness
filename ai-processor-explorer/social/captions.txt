@@ -1,0 +1,42 @@
+LINKEDIN POST
+
+CPU, GPU, TPU, NPU, LPU or DPU — what does each actually do?
+
+I created Processor Atlas to make the differences easier to see: six original animations, worked examples and a step-by-step interactive guide.
+
+Watch a CPU execute an instruction, a GPU handle parallel work, a TPU accumulate a matrix result, an NPU process input locally, an LPU follow a prepared inference schedule, and a DPU filter and forward traffic.
+
+The examples are conceptual, not benchmarks. The best choice depends on the workload, memory, software support, latency, power and cost.
+
+Explore the guide and source:
+https://github.com/hassankx/gpu-platform-readiness/tree/main/ai-processor-explorer
+
+Which architecture would you like me to explain next?
+
+#AIInfrastructure #CloudComputing #GPU #MachineLearning #SystemsEngineering
+
+FACEBOOK STORY TEXT
+
+Six processors. Different kinds of work.
+CPU • GPU • TPU • NPU • LPU • DPU
+
+I made an animated guide showing how each works.
+Find Processor Atlas on my GitHub: hassankx/gpu-platform-readiness
+
+STORY ORDER
+
+01_CPU_Story.mp4
+02_GPU_Story.mp4
+03_TPU_Story.mp4
+04_NPU_Story.mp4
+05_LPU_Story.mp4
+06_DPU_Story.mp4
+
+Each part is 12 seconds and uses a 1080 × 1920 vertical canvas. The master video is 72 seconds. Use the six short parts if the Story uploader limits clip length.
+
+MEDIA NOTES
+
+LinkedIn: Processor_Atlas_LinkedIn.mp4 — 1080 × 1080, H.264 MP4, 24 fps, 72 seconds.
+Facebook: Processor_Atlas_Facebook_Story.mp4 — 1080 × 1920, H.264 MP4, 24 fps, 72 seconds, plus six 12-second parts.
+Silent videos with visible text. No narration, music, copyrighted stock footage, or hardware benchmark claims.
+The link printed in a video is not clickable; use the platform's caption or link feature where available.

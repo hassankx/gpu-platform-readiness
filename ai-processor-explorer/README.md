@@ -63,3 +63,7 @@ The exporter reads the same original SVG renderers used by `dist/index.html`. No
 - [NVIDIA: BlueField infrastructure offload](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/documents/datasheet-nvidia-bluefield-2-dpu.pdf)
 
 Original source and graphics are provided under the repository's MIT license. Third-party names identify the technologies discussed; no vendor endorsement is implied.
+
+## Social video exports
+
+[Open the LinkedIn and Facebook video pack](social/README.md) for native MP4 uploads, captions and reproducible export scripts.
