@@ -1,3 +1,7 @@
+[🌌 View the black-and-Milky-Way themed page](index.html) · [Open HTML source](https://github.com/hassankx/gpu-platform-readiness/blob/main/index.html)
+
+> GitHub README pages use GitHub's own theme. Download `index.html` and open it in a browser to see the full starfield design.
+
 # GPU Platform Readiness
 
 A read-only check for NVIDIA GPU hosts used for AI/ML training and inference, visualization, or HPC. Run it on a new node before it joins a cluster, after a driver upgrade, or when jobs start failing on one machine.
